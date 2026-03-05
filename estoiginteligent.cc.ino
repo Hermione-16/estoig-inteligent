@@ -1,7 +1,7 @@
 /*
  * Copyright 2026 Adriana Montaña Samudio
  * 
- * 
+ * Licensed under a Attribution-NonCommercial-ShareAlike 4.0 International license
  */
 
 //Pantalla
